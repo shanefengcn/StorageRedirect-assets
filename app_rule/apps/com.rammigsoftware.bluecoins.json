@@ -16,7 +16,7 @@
             "saved_files_0": {
                 "title": "@saved_files",
                 "source": "Bluecoins",
-                "target": "Download/Bluecoins",
+                "target": "Documents/Bluecoins",
                 "allow_child": true
             }
         }
